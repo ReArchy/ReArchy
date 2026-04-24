@@ -27,31 +27,23 @@
 
 ---
 
-## By The Numbers
+## Latest Articles
 
-- **50+** Backend deep-dive articles
-- **10K+** Followers across platforms
-- **5+** Production systems designed
-- **100%** Open-source contributions
+Check out our [backend engineering articles on Hashnode](https://rearchy.hashnode.dev)
 
----
-
-## Featured Content
-
-**Recent Articles:**
-- [Optimizing DynamoDB: Single-Table Design Patterns](https://rearchy.hashnode.dev)
-- [AWS Lambda Performance Tuning in Production](https://rearchy.hashnode.dev)
-- [Python Async Patterns for High-Throughput APIs](https://rearchy.hashnode.dev)
-
-→ **[View All Articles](https://rearchy.hashnode.dev)**
+Topics covered:
+- AWS Lambda & Serverless Architecture
+- DynamoDB Access Patterns & Optimization
+- Python Async & Concurrency Patterns
+- System Design & Distributed Systems
 
 ---
 
-## Quick Start
+## Get Involved
 
-1. **Explore** → Check [latest articles](https://rearchy.hashnode.dev) on backend architecture
-2. **Connect** → Follow on [X](https://x.com/TheReArchy) for system design insights
-3. **Learn** → Book a [consultation on Topmate](https://topmate.io/rearchy) for mentoring
+1. **Read** → Explore [articles on Hashnode](https://rearchy.hashnode.dev)
+2. **Follow** → Stay updated on [X](https://x.com/TheReArchy)
+3. **Learn** → Book a [1-on-1 consultation](https://topmate.io/rearchy)
 
 ---
 
